@@ -3,7 +3,8 @@ This Repository Will tell you how to get started building backends with Django a
 
 #Prerequisites
 
-Python Distribution From [Python Distribution Anaconda](https://www.anaconda.com/distribution/) To install for Any OS.
+Python From  [Anaconda Distribution](https://www.anaconda.com/distribution/) To install for Any OS.
 
 # Django Installation
-All you
+
+Navigate To Anaconda Prompt.
