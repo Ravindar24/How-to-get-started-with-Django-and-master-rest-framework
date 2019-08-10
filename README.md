@@ -7,10 +7,11 @@ Python From  [Anaconda Distribution](https://www.anaconda.com/distribution/) To 
 
 # Django Installation
 
-'''
+```
 For Getting Django on your System.
 You can use pip install or conda install.For More Info [python package index](https://pypi.org/)
-'''
+```
 
--Navigate To Anaconda Prompt.
--pip install 
+#Installation
+ -Navigate To Anaconda Prompt.
+ -pip install 
