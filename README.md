@@ -13,5 +13,5 @@ You can use pip install or conda install.For More Info [python package index](ht
 ```
 
 # Installation
-  -Navigate To Anaconda Prompt.
-   -pip install 
+ [] Navigate To Anaconda Prompt.
+ [] pip install 
