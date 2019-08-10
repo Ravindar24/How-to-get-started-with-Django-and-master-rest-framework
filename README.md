@@ -12,6 +12,6 @@ For Getting Django on your System.
 You can use pip install or conda install.For More Info [python package index](https://pypi.org/)
 ```
 
-#Installation
- -Navigate To Anaconda Prompt.
- -pip install 
+# Installation
+  -Navigate To Anaconda Prompt.
+   -pip install 
